@@ -1,4 +1,4 @@
-# smarthome_ui
+# SmartHome UI
 
 a SmartHome Application that can access Smart Homes devices through your phone.
 
