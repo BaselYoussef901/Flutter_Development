@@ -1,5 +1,3 @@
-# Flutter_Development
-Flutter projects and notes (mobile development)
+# Concepts and Ideas of how things done!
 
-- 001: SmartHome UI
-- 002: Login/Signup UI
+- 001: LightDarkTheme [Splash with app logo / Intro what this app about / Light and Dark Theme]
