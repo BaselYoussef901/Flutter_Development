@@ -1,16 +1,17 @@
 # light_dark_theme
 
-A new Flutter project.
+First step to make an application is to make:
+- Light and Dark Mode
+- Splash/Intro to introduce your applicatio
 
-## Getting Started
+> I used spotify as an example of achieving these.
 
-This project is a starting point for a Flutter application.
+# Spotify Application UI - [Starter]
 
-A few resources to get you started if this is your first Flutter project:
+### Splash and Intro
+![image](https://github.com/user-attachments/assets/014c69c4-99f5-4f19-8b20-51d1cc4f4ba1)
+![image](https://github.com/user-attachments/assets/aa28373d-a190-4294-ba68-bb6ad6e844a6)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Light and Dark Theme
+![image](https://github.com/user-attachments/assets/6056ece7-17cf-4f03-be24-2cf168803685)
+![image](https://github.com/user-attachments/assets/c9c9f295-13b1-4f78-82fb-4ed975622bac)
